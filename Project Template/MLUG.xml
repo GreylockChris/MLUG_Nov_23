@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="yes"?>
+<MetaData>
+  <ProjectTemplate>
+    <Title localize="yes">New MLUG Project/Title>
+    <Description localize="yes">Creates a new LabVIEW project in the MLUG Style</Description>
+    <Filters localize="yes">MLUG</Filters>
+    <Keywords localize="yes"></Keywords>
+    <LocationPath>MLUG</LocationPath>
+    <ProjectPath>Template/Template.lvproj</ProjectPath>
+    <ListboxImagePath>images/MLUG.png</ListboxImagePath>
+    <SortPriority>300</SortPriority>
+    <MetaDataClass>Scripting/MLUG/MLUG.lvclass</MetaDataClass>
+  </ProjectTemplate>
+  </MetaData>
